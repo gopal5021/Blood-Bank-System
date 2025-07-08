@@ -19,7 +19,7 @@ A simple and efficient web-based Blood Bank Management System built using **PHP*
 - Manage Blood Inventory (Add / Remove Units)
 - View Donors and Requests
 
-  ### 🔹 General Features
+### 🔹 General Features
 - Secure session-based authentication
 - Fully responsive frontend design
 - Fixed footer and clean UI
